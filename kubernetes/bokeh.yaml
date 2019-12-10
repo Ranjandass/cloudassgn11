@@ -22,8 +22,8 @@ spec:
         run: bokeh
     spec:
       containers:
-      - name: "cloud-assgn"
-        image: "gcr.io/cloudassignment44/cloud-assgn:latest"
+      - name: "cloud-assignment"
+        image: "gcr.io/cloudassignment44/cloud_assignment:latest"
         ports:
         - containerPort: 5006
         env:
