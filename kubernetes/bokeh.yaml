@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: "cloud-assignment"
-        image: "gcr.io/cloudassignment44/cloud_assignment:latest"
+        image: "gcr.io/cloud-assignment-final-1/cloud_assignment:latest"
         ports:
         - containerPort: 5006
         env:
