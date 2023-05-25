@@ -1,5 +1,5 @@
 bokeh==1.2.0
-Tornado==6.0.3
+Tornado==6.3.2
 numpy==1.17.4
 pandas==0.24.2
 python-csv==0.0.11
